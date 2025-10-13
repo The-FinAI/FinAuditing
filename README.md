@@ -2,7 +2,7 @@
 <h1 align="center">✨ FinAuditing: A Financial Taxonomy-Structured Multi-Document Benchmark for Evaluating LLMs ✨</h1>
 
 <p align="center">
-  📁 <a href="https://huggingface.co/collections/TheFinAI/finauditing-68e5f80606e22454027075e7">Benchmark Data</a> | 📖 <a href="">Arxiv</a> | 🛠️ <a href="https://github.com/The-FinAI/FinBen">Evaluation Framework</a>
+  📁 <a href="https://huggingface.co/collections/TheFinAI/finauditing-68e5f80606e22454027075e7">Benchmark Data</a> | 📖 <a href="https://arxiv.org/abs/2510.08886">Arxiv</a> | 🛠️ <a href="https://github.com/The-FinAI/FinBen">Evaluation Framework</a>
 </p>
 
 ---
@@ -21,3 +21,16 @@
 | [**FinMR_Sub**](https://huggingface.co/datasets/TheFinAI/FinMR_Sub) | FinMR subset for ICAIF 2025. |
 
 ---
+
+If you find our benchmark useful, please cite:
+
+```bibtex
+    @misc{wang2025finauditingfinancialtaxonomystructuredmultidocument,
+          title={FinAuditing: A Financial Taxonomy-Structured Multi-Document Benchmark for Evaluating LLMs}, 
+          author={Yan Wang and Keyi Wang and Shanshan Yang and Jaisal Patel and Jeff Zhao and Fengran Mo and Xueqing Peng and Lingfei Qian and Jimin Huang and Guojun Xiong and Xiao-Yang Liu and Jian-Yun Nie},
+          year={2025},
+          eprint={2510.08886},
+          archivePrefix={arXiv},
+          primaryClass={cs.CL},
+          url={https://arxiv.org/abs/2510.08886}, 
+    }
