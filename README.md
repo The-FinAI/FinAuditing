@@ -2,7 +2,7 @@
 <h1 align="center">✨ FinAuditing: A Financial Taxonomy-Structured Multi-Document Benchmark for Evaluating LLMs ✨</h1>
 
 <p align="center">
-  📁 <a href="https://huggingface.co/collections/TheFinAI/finauditing-68e5f80606e22454027075e7">Benchmark Data</a> | 📖 <a href="https://arxiv.org/abs/2510.08886">Arxiv</a> | 🛠️ <a href="https://github.com/The-FinAI/FinBen">Evaluation Framework</a>
+  📁 <a href="https://huggingface.co/collections/TheFinAI/finauditing-68e5f80606e22454027075e7">Benchmark Data</a> | 📖 <a href="https://arxiv.org/abs/2510.08886">Arxiv</a> | 🛠️ <a href="https://github.com/Yan2266336/FinBen">Evaluation Framework</a>
 </p>
 
 ---
