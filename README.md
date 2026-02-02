@@ -7,7 +7,33 @@
 
 ---
 
-## 🌟 Overview
+### 📌 How to Use This Benchmark
+
+We provide **two evaluation pathways** depending on whether you prefer lightweight local testing or full benchmark evaluation via our unified framework.
+
+#### 1. Local Testing via Starter Kit (Recommended for Quick Experiments)
+
+If you would like to test the benchmark using local code:
+
+- Please refer to the `startKit/` directory.
+- We provide two end-to-end pipelines:
+  - `pipeline-hf.ipynb` for **HuggingFace-based inference**
+  - `pipeline-vllm.ipynb` for **vLLM-based inference**
+- After inference, use the **three task-specific evaluation scripts** in the same directory to evaluate performance on **FinSM**, **FinRE**, and **FinMR**, respectively.
+
+#### 2. Full Evaluation via FinBen Framework (Recommended for Benchmarking)
+
+If you would like to evaluate models using our unified evaluation framework:
+
+- Please run the three FinAuditing tasks under  
+  `FinBen/tasks/FinAuditing/`
+- The corresponding execution scripts are:
+  - `run_finsm.sh`
+  - `run_finre.sh`
+  - `run_finmr.sh`
+
+---
+
 
 ### 📚 Datasets Released
 
