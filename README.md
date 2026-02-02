@@ -15,7 +15,7 @@ We provide **two evaluation pathways** depending on whether you prefer lightweig
 
 If you would like to test the benchmark using local code:
 
-- Please refer to the `startKit/` directory.
+- Please refer to the `StartKit/` directory.
 - We provide two end-to-end pipelines:
   - `pipeline-hf.ipynb` for **HuggingFace-based inference**
   - `pipeline-vllm.ipynb` for **vLLM-based inference**
