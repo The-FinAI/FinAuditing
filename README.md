@@ -29,7 +29,10 @@ If you would like to evaluate models using our unified evaluation framework:
   `FinBen/tasks/FinAuditing/`
 - The corresponding execution scripts are:
   - `run_finaudit.sh`
-
+- Once you get the results, you can use the following evaluation scripts to test:
+  - `evaluate-FinSM-example.ipynb`
+  - `evaluate-FinRE-example.ipynb`
+  - `evaluate-FinMR-example.ipynb`
 ---
 
 
