@@ -28,9 +28,7 @@ If you would like to evaluate models using our unified evaluation framework:
 - Please run the three FinAuditing tasks under  
   `FinBen/tasks/FinAuditing/`
 - The corresponding execution scripts are:
-  - `run_finsm.sh`
-  - `run_finre.sh`
-  - `run_finmr.sh`
+  - `run_finaudit.sh`
 
 ---
 
